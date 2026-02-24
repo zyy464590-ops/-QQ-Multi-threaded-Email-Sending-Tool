@@ -13,3 +13,4 @@
 最后复制授权码
 <img width="635" height="569" alt="屏幕截图 2026-02-24 1159235" src="https://github.com/user-attachments/assets/35ab5a6b-fa53-4df3-9260-0e26aa566150" />
 然后打开index.py文件即可使用
+有更好的意见可以联系邮箱：zyy464590@gmail.com
